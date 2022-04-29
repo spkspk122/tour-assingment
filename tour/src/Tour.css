@@ -1,0 +1,71 @@
+.body{
+    background-color:whitesmoke;
+}
+.heading{
+    font-size: 40px;
+    font-weight: 800;
+    color: black;
+    font-family: serif;
+    border-bottom: 100%;
+    text-align: center;
+}
+.map1{
+    border: 3px solid whitesmoke;
+   text-align: center;
+    background-color: white;
+    margin: 100px 380px 130px 380px;
+    border-radius: 10px;
+}
+.photo{
+    height: 390px;
+    width: 655px;
+    margin-bottom: 20px;
+}
+.readmore{
+    color: rgb(7, 110, 194);
+    cursor: pointer;
+}
+.name{
+    font-weight: 700;
+}
+.name-price{
+    margin-bottom: 20px;
+}
+.price{
+    font-weight: 700;
+    color: rgb(10, 78, 121);
+    background-color: lightblue;
+    padding: 3px;
+    border-radius: 3px;
+}
+.info{
+    color: gray;
+    margin-bottom: 20px;
+    
+}
+.text{
+    text-align: center;
+    font-size:50px;
+    font-weight: 900;
+    color: gray;
+}
+.notintrest{
+    padding: 7px;
+    width: 200px;
+    font-size: large;
+    border-color: red;
+    color: red;
+    background-color: white;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    
+}
+.refresh{
+    padding: 8px;
+    width: 150px;
+    background-color: rgb(42, 103, 194);
+    color: white;
+    border-radius: 7px;
+    font-weight: 600;
+    font-size: 20px;
+}
